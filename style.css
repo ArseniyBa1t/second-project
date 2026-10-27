@@ -1,0 +1,10 @@
+﻿body {
+  margin: 0;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+}
